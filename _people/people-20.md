@@ -1,7 +1,7 @@
 ---
 title: "Azhari Abbas"
 collection: people
-category: under
+category: former
 image: "/images/abbas.jpg"
 role: "Principal Investigator"
 department: "College of Engineering, Aerospace Engineering Department, ERAU"
