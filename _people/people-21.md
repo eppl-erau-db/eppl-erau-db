@@ -1,7 +1,7 @@
 ---
 title: "Caleb Fakunle"
 collection: people
-category: under
+category: former
 image: "/images/fakunle.jpg"
 role: "Principal Investigator"
 department: "College of Engineering, Aerospace Engineering Department, ERAU"
